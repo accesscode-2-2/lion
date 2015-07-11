@@ -3,6 +3,6 @@
 **Contributors:**
 - Lauren Caponong
 - Krishna Picart
-- Artur 
-- Mesfin
+- Artur Lan
+- Mesfin Mekonnen
 - Diana Elezaj
