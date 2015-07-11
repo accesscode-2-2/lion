@@ -1,4 +1,8 @@
+<center>
 #Lion Pod
+<img src="http://images6.fanpop.com/image/photos/36100000/Lion-cubs-image-lion-cubs-36139556-2000-1333.jpg">
+</center>
+
 <hr>
 
 
