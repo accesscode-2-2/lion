@@ -11,6 +11,7 @@
 
 Team Leader: Lauren Caponong
 
+<hr>
 
 <h3>This Week's Goals</h3>
 
@@ -29,17 +30,14 @@ Team Leader: Lauren Caponong
 <h3>Weekly Retrospective</h3>
 
 1. Did you meet your weekly goals?
-
 Yes / No [UPDATE THIS] We all submitted our assignments Understood more about git
 
 2. If not, which ones didn't you meet and why?
-
 Communication could have been improved Bugs Galore Merge conflicts need to be looked at in greater detail with whole class. Turnaround time for reviewing pull requests was not fast.
 
 [UPDATE THIS]
 
 3. What will you do as a team to make sure you meet your goals next week?
-
 Support each other's meditating goals.
 
 [UPDATE THIS]
@@ -48,7 +46,7 @@ Support each other's meditating goals.
 
 <h3>Next Week</h3>
 
-Next Week’s team leader: Dison
+Next Week’s team leader: Dison <br>
 Next Week's pod goals:
 <li>
 <li>
