@@ -41,7 +41,6 @@ Team Leader: Lauren Caponong
 
 
 3. What will you do as a team to make sure you meet your goals next week? <br>
-Support each other's meditating goals.
 <i>For next week...</i>
 
 <hr>
