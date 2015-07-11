@@ -26,7 +26,7 @@ Team Leader: Lauren Caponong
 <li>Finish all the exercises
 <li>Reinforcing concepts we are not clear on
 
-<h3>Additional Goal(s) set by the pod [UPDATE THIS]</h3>
+<h3>Additional Goal(s) set by the pod:</h3>
 
 <li>Introduction to data visualization
 
