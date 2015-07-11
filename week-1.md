@@ -21,9 +21,9 @@ Team Leader: Lauren Caponong
 
 <h3>This Week's Goals</h3>
 
-<li>Submit all the homework on time
-<li>Master all the material covered this week
-<li>Be on time to class!
+<li>Pass the assessment
+<li>Finish all the exercises
+<li>Reinforcing concepts we are not clear on
 
 <h3>Additional Goal(s) set by the pod [UPDATE THIS]</h3>
 
