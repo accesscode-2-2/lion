@@ -1,4 +1,6 @@
 #Lion Pod
+<hr>
+
 
 <u>Contributors:</u>
 
@@ -29,15 +31,15 @@ Team Leader: Lauren Caponong
 
 <h3>Weekly Retrospective</h3>
 
-1. Did you meet your weekly goals?
+1. Did you meet your weekly goals? <br>
 Yes / No [UPDATE THIS] We all submitted our assignments Understood more about git
 
-2. If not, which ones didn't you meet and why?
+2. If not, which ones didn't you meet and why? <br>
 Communication could have been improved Bugs Galore Merge conflicts need to be looked at in greater detail with whole class. Turnaround time for reviewing pull requests was not fast.
 
 [UPDATE THIS]
 
-3. What will you do as a team to make sure you meet your goals next week?
+3. What will you do as a team to make sure you meet your goals next week? <br>
 Support each other's meditating goals.
 
 [UPDATE THIS]
