@@ -24,6 +24,8 @@ Team Leader: Lauren Caponong
 <li>Madelyn would like to make meditating a new group goal.
 <li>Make previous apps (scientific calculator, horoscope, and meme) faster/more efficient/ more elegant/ more pretty.
 
+<hr>
+
 <h3>Weekly Retrospective</h3>
 
 1. Did you meet your weekly goals?
@@ -42,9 +44,12 @@ Support each other's meditating goals.
 
 [UPDATE THIS]
 
+<hr>
+
 <h3>Next Week</h3>
 
 Next Week’s team leader: Dison
 Next Week's pod goals:
+<li>
 <li>
 <li>
