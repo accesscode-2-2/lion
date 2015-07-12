@@ -3,7 +3,7 @@
 
 #Lion Pod
 
-<iframe src="//giphy.com/embed/nnnFdDnnAJaM0" width="480" height="272" frameBorder="0" style="max-width: 100%" class="giphy-embed" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="//giphy.com/embed/nnnFdDnnAJaM0" width="480" height="272" </iframe>
 </center>
 
 
