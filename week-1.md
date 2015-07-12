@@ -5,11 +5,8 @@
 
 <img src="http://images6.fanpop.com/image/photos/36100000/Lion-cubs-image-lion-cubs-36139556-2000-1333.jpg" width="300px" height="200px">
 
-![tiger](http://media0.giphy.com/media/xkdUsgFwboNoY/giphy.gif)
+![tiger](http://media0.giphy.com/media/nnnFdDnnAJaM0/giphy.gif)
 </center>
-
-
-<hr>
 
 <u>Date</u>: July 11, 2015
 
