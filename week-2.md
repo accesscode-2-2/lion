@@ -19,39 +19,41 @@
 <li>Mesfin Mekonnen
 <li>Diana Elezaj
 
-Team Leader: Lauren Caponong
+Team Leader: Diana Elezaj
 
 <hr>
 
 <h3>This Week's Goals</h3>
 
-<li>Pass the assessment
-<li>Finish all the exercises
-<li>Reinforcing concepts we are not clear on
+<li>Finish the homework
+<li>Reinforcing concepts on C
+<li>Finish all interface exercises
+
+
 
 <h3>Additional Goal(s) set by the pod:</h3>
-
-<li>Introduction to data visualization
+Search more about MVC
+<li>
 
 <hr>
 
 <h3>Weekly Retrospective</h3>
 
 1. Did you meet your weekly goals? <br>
-<i>For next week...</i>
+<i>YES</i>
 
 2. If not, which ones didn't you meet and why? <br>
-<i>For next week...</i>
+<i>--</i>
 
 
 3. What will you do as a team to make sure you meet your goals next week? <br>
-<i>For next week...</i>
+<i>Communicate, work after class</i>
 
 <hr>
 
 <h3>Next Week</h3>
 
-Next Week’s team leader: Diana <br>
+Next Week’s team leader: Artur Lan <br>
 Next Week's pod goals:
 <li>
 <li>
