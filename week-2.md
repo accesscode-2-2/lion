@@ -8,7 +8,7 @@
 ![tiger](http://media0.giphy.com/media/nnnFdDnnAJaM0/giphy.gif)
 </center>
 
-<u>Date</u>: July 11, 2015
+<u>Date</u>: July 18, 2015
 
 <u>Contributors:</u>
 
