@@ -25,9 +25,9 @@ Team Leader: Artur Lan
 
 <h3>This Week's Goals</h3>
 
-<li>Finish the homework
-<li>Reinforcing concepts on C
-<li>Finish all interface exercises
+<li>Review and practice UITableView
+<li>Practice Interfaces
+<li>Finish Homework
 
 
 
