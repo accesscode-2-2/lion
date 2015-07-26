@@ -19,7 +19,7 @@
 <li>Mesfin Mekonnen
 <li>Diana Elezaj
 
-Team Leader: Diana Elezaj
+Team Leader: Artur Lan
 
 <hr>
 
