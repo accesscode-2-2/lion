@@ -56,7 +56,7 @@ Search more about MVC
 
 <h3>Next Week</h3>
 
-Next Week’s team leader: Mesfin Mekonnen <br>
+Next Week’s team leader: Krishna Picart <br>
 Next Week's pod goals:
 <li>Plan on starting the homework as soon as possible.
 <li>Reach out to pod members if we have a question about the homework
