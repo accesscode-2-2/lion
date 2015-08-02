@@ -47,9 +47,11 @@ Search more about MVC
 
 
 3. What will you do as a team to make sure you meet your goals next week? <br>
+<ul>
 <li>Communicate, work after class</li>
 <li>Check in on each other</li>
 <li>Be aware and mindful of everbody's knowledge</li>
+</ul>
 <hr>
 
 <h3>Next Week</h3>
