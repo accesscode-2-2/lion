@@ -25,9 +25,10 @@ Team Leader: Mesfin Bekele Mekonnen
 
 <h3>This Week's Goals</h3>
 
-<li>Review and practice UITableView
-<li>Practice Interfaces
-<li>Finish Homework
+<li>Plan on starting the homework as soon as possible.
+<li>Reach out to pod members if we have a question about the homework
+<li>Jog...go exercising to get some energy
+<li>Get plenty of rest
 
 
 
@@ -58,7 +59,7 @@ Search more about MVC
 
 Next Week’s team leader: Krishna Picart <br>
 Next Week's pod goals:
-<li>Plan on starting the homework as soon as possible.
-<li>Reach out to pod members if we have a question about the homework
-<li>Jog...go exercising to get some energy
-<li>Get plenty of rest
+<li>
+<li>
+<li>
+<li>
