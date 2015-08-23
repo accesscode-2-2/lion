@@ -46,9 +46,10 @@ Team Leader: Diana Elezaj
 
 
 3. What will you do as a team to make sure you meet your goals next week? <br>
+<ul>
 <i>Communicate, work after class</i>
 <ul>
-<li>Check in on each other once in a while</li>
+<li><i>Check in on each other once in a while</li>
 
 <hr>
 
