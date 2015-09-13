@@ -19,16 +19,17 @@
 <li>Mesfin Mekonnen
 <li>Diana Elezaj
 
-Team Leader: Diana Elezaj
+Team Leader: Artur Lan
 
 <hr>
 
 <h3>This Week's Goals</h3>
 
-<li>Finish the Timer project
-<li>Implement pair groups working
-<li>Communicate with group members
-<li>Communicate with each other if we need help for our projects
+<li>Learn more about delegates and protocols
+<li>Diana: Finish the project using delegates and protocols
+<li>Mesfin: Learn Swift
+<li>Lauren and Artur: Learn JavaScript
+<li>Krishna: Objective-C
 
 
 <h3>Additional Goal(s) set by the pod:</h3>
@@ -55,7 +56,7 @@ Team Leader: Diana Elezaj
 
 <h3>Next Week</h3>
 
-Next Week’s team leader: Artur Lan <br>
+Next Week’s team leader:Mesfin Mekonnen<br>
 Next Week's pod goals:
 <li>
 <li>
