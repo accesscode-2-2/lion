@@ -19,45 +19,35 @@
 <li>Mesfin Mekonnen
 <li>Diana Elezaj
 
-Team Leader: Mesfin Mekonnen
+Team Leader: Lauren Caponong
 
 <hr>
 
 <h3>This Week's Goals</h3>
 
-<li>Learn more about and practice APIs
-<li>Diana: Work with APIs to have a better understanding
-<li>Mesfin: Look more into cool APIs
-<li>Lauren and Artur: Incorporate Cocoapods
-<li>Krishna: Incorporating databases to applications
+<li>Study/practice Core Data</li>
+<li>Start thinking about final project</li>
 
 
 <h3>Additional Goal(s) set by the pod:</h3>
-<li>Reinforce concepts we don't completely understand
+<li>N/A</li>
 
 <hr>
 
 <h3>Weekly Retrospective</h3>
 
 1. Did you meet your weekly goals? <br>
-<i>YES</i>
+<i>Yes</i>
 
 2. If not, which ones didn't you meet and why? <br>
 <i>--</i>
 
 
 3. What will you do as a team to make sure you meet your goals next week? <br>
-<ul>
-<i>Communicate, work after class</i>
-<ul>
-<li><i>Check in on each other once in a while</li>
+<ul>Communicate</ul>
 
 <hr>
 
 <h3>Next Week</h3>
 
-Next Week’s team leader:Krishna<br>
-Next Week's pod goals:
-<li>
-<li>
-<li>
+Next Week’s team leader: Diana
