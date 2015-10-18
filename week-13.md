@@ -25,8 +25,10 @@ Team Leader: Artur Lan
 
 <h3>This Week's Goals</h3>
 
-<li>Study/practice Core Data</li>
-<li>Keep working on final project</li>
+<li>Lauren: Practice public speaking.
+<li>Diana: Finish Unit-3 final project. 
+<li>Mesfin: Finish Unit-3 final project.
+<li>Artur: Read, run and learn.
 
 
 <h3>Additional Goal(s) set by the pod:</h3>
