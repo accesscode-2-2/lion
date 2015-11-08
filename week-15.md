@@ -8,7 +8,7 @@
 ![tiger](http://media0.giphy.com/media/nnnFdDnnAJaM0/giphy.gif)
 </center>
 
-<u>Date</u>: Semptember 20, 2015
+<u>Date</u>: November 8, 2015
 
 <u>Contributors:</u>
 
@@ -19,16 +19,16 @@
 <li>Mesfin Mekonnen
 <li>Diana Elezaj
 
-Team Leader: Artur Lan
+Team Leader: Lauren Caponong
 
 <hr>
 
 <h3>This Week's Goals</h3>
 
-<li>Lauren: Practice public speaking.
-<li>Diana: Finish Unit-3 final project. 
-<li>Mesfin: Finish Unit-3 final project.
-<li>Artur: Read, run and learn.
+<li>Work towards the MVP</li>
+<li>Finish wireframing the final project</li>
+<li>Prepare for segue</li>
+<li>Learn more Sketch</li>
 
 
 <h3>Additional Goal(s) set by the pod:</h3>
@@ -46,11 +46,23 @@ Team Leader: Artur Lan
 
 
 3. What will you do as a team to make sure you meet your goals next week? <br>
-<ul>Communicate</ul>
+<li>Contribute as much as you can to your team</li>
+<li>Communicate</li>
+
+<hr>
+
+<h3>Very Important Dates</h3>
+<li>Tuesday, November 17 - MVP due // Demo 1</li>
+<li>Tuesday, November 24 -  Demo 2</li>
+<li>Tuesday, December 1 -  Demo 3</li>
+<li>Tuesday, December 8 - Google Demo Day</li>
+<li>Thursday, December 17 - Lauren's Birthday</li>
+
 
 <hr>
 
 <h3>Next Week</h3>
 
-Next Week’s team leader:Lauren Caponong  
+Next Week’s team leader: Diana
+November 15, 2015
 
