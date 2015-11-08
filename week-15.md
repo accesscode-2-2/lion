@@ -46,23 +46,22 @@ Team Leader: Lauren Caponong
 
 
 3. What will you do as a team to make sure you meet your goals next week? <br>
-<li>Contribute as much as you can to your team</li>
-<li>Communicate</li>
+<ul>Contribute as much as you can to your team</ul>
+<ul>Communicate</ul>
 
 <hr>
 
-<h3>Very Important Dates</h3>
+<h3>Very Important Dates</h3><br>
 <li>Tuesday, November 17 - MVP due // Demo 1</li>
 <li>Tuesday, November 24 -  Demo 2</li>
 <li>Tuesday, December 1 -  Demo 3</li>
 <li>Tuesday, December 8 - Google Demo Day</li>
 <li>Thursday, December 17 - Lauren's Birthday</li>
 
-
 <hr>
 
 <h3>Next Week</h3>
 
-Next Week’s team leader: Diana
+Next Week’s team leader: Diana<br>
 November 15, 2015
 
