@@ -14,10 +14,9 @@
 
 
 <li>Lauren Caponong
-<li>Krishna Picart
+<li>Diana Elezaj
 <li>Artur Lan
 <li>Mesfin Mekonnen
-<li>Diana Elezaj
 
 Team Leader: Lauren Caponong
 
